@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "Google",
+        "Uri": "https://www.google.com/"
+    },
+    {
+        "Name": "Bing",
+        "Uri": "https://www.bing.com/"
+    },
+    {
+        "Name": "StartPage",
+        "Uri": "https://www.startpage.com/"
+    },
+    {
+        "Name": "DuckDuckGo",
+        "Uri": "https://duckduckgo.com/"
+    },
+    {
+        "Name": "APP",
+        "Uri": "http://localhost:62033/"
+    }
+]

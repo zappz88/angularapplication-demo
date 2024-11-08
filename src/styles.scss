@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100vh; width: 100vw; padding: 0px; margin: 0px; box-sizing: border-box; }
+body { 
+    font-family: Roboto, "Helvetica Neue", sans-serif; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    background-image: url("https://imgs.search.brave.com/zPbhGMAjARAoR8aG6vPt6IWy2xwupoSvwxsa2iYLIFU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAzLzM2Lzg4Lzc0/LzM2MF9GXzMzNjg4/NzQ3MF9lRFBoSU5C/VXd6dEN1TDdIdmtZ/ZHcxY21VMUR1SFN3/bS5qcGc");
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
