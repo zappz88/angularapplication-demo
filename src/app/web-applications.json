@@ -16,7 +16,7 @@
         "Uri": "https://duckduckgo.com/"
     },
     {
-        "Name": "APP",
-        "Uri": "http://localhost:62033/"
+        "Name": "Home",
+        "Uri": "http://localhost/Home/"
     }
 ]
