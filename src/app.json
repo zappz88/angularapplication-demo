@@ -1,5 +1,5 @@
 {
     "Encryptor": "BASIC",
     "SessionTimeout": 15,
-    "UserServiceUri": "http://localhost:5250/api/User"
+    "UserServiceUri": "http://localhost:5250/api/Users"
 }
